@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: f6db8f54910d546a489cb1ed5ade391a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3610005649502280706
+    second: head_hair_light01_0
+  - first:
+      213: -7227860723000136796
+    second: head_hair_light01_1
+  - first:
+      213: 3619804300739591368
+    second: head_hair_light01_2
+  - first:
+      213: 3010992244935576726
+    second: head_hair_light01_3
+  - first:
+      213: 1933974059106026932
+    second: head_hair_light01_4
+  - first:
+      213: 6004620872228842238
+    second: head_hair_light01_5
+  - first:
+      213: 3087375242402683933
+    second: head_hair_light01_6
+  - first:
+      213: -2408440007556263405
+    second: head_hair_light01_7
+  - first:
+      213: -3184672650865895912
+    second: head_hair_light01_8
+  - first:
+      213: 5279764135298203482
+    second: head_hair_light01_9
+  - first:
+      213: 864295186527291012
+    second: head_hair_light01_10
+  - first:
+      213: -1311788043567845534
+    second: head_hair_light01_11
+  - first:
+      213: 4587225827114017755
+    second: head_hair_light01_12
+  - first:
+      213: 3920816452880642644
+    second: head_hair_light01_13
+  - first:
+      213: 4255050969883724957
+    second: head_hair_light01_14
+  - first:
+      213: 8823937795496052889
+    second: head_hair_light01_15
+  - first:
+      213: 6068720005722964946
+    second: head_hair_light01_16
+  - first:
+      213: -3707686079672192014
+    second: head_hair_light01_17
+  - first:
+      213: 2245020882438457718
+    second: head_hair_light01_18
+  - first:
+      213: -707596982970825441
+    second: head_hair_light01_19
+  - first:
+      213: -9176250615284445933
+    second: head_hair_light01_20
+  - first:
+      213: -7277010789230162033
+    second: head_hair_light01_21
+  - first:
+      213: -502652198465635818
+    second: head_hair_light01_22
+  - first:
+      213: 1154782881290058930
+    second: head_hair_light01_23
+  - first:
+      213: -1368722878165183337
+    second: head_hair_light01_24
+  - first:
+      213: -8117536485727432543
+    second: head_hair_light01_25
+  - first:
+      213: 1255987685177015822
+    second: head_hair_light01_26
+  - first:
+      213: 6427660653079814581
+    second: head_hair_light01_27
+  - first:
+      213: -1955564188779981817
+    second: head_hair_light01_28
+  - first:
+      213: -2270545357838106113
+    second: head_hair_light01_29
+  - first:
+      213: -8643370228163007828
+    second: head_hair_light01_30
+  - first:
+      213: -4913148053521226613
+    second: head_hair_light01_31
+  - first:
+      213: 7171380615916080760
+    second: head_hair_light01_32
+  - first:
+      213: -2640336082232756903
+    second: head_hair_light01_33
+  - first:
+      213: -6717724809313221284
+    second: head_hair_light01_34
+  - first:
+      213: -8088955302640963792
+    second: head_hair_light01_35
+  - first:
+      213: -245760275896630021
+    second: head_hair_light01_36
+  - first:
+      213: 6427155808764736132
+    second: head_hair_light01_37
+  - first:
+      213: -7580154420928058677
+    second: head_hair_light01_38
+  - first:
+      213: 1222272931320101012
+    second: head_hair_light01_39
+  - first:
+      213: -8694594339104128111
+    second: head_hair_light01_40
+  - first:
+      213: -1317817205764212832
+    second: head_hair_light01_41
+  - first:
+      213: -3593064213685117469
+    second: head_hair_light01_42
+  - first:
+      213: 349165938931102871
+    second: head_hair_light01_43
+  - first:
+      213: 2681510279345802235
+    second: head_hair_light01_44
+  - first:
+      213: -7771288253625480690
+    second: head_hair_light01_45
+  - first:
+      213: -5728983549616884862
+    second: head_hair_light01_46
+  - first:
+      213: -5474702333069312675
+    second: head_hair_light01_47
+  - first:
+      213: -903075151337418554
+    second: head_hair_light01_48
+  - first:
+      213: -7075138878445699270
+    second: head_hair_light01_49
+  - first:
+      213: 7001407782225998297
+    second: head_hair_light01_50
+  - first:
+      213: -3365363009134355495
+    second: head_hair_light01_51
+  - first:
+      213: 3978555587255077729
+    second: head_hair_light01_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head_hair_light01_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9cb7f201591230800000000000000
+      internalID: 3610005649502280706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab249f97fa71bb90800000000000000
+      internalID: -7227860723000136796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccb30e35d02c3230800000000000000
+      internalID: 3619804300739591368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c47dc6e7139c920800000000000000
+      internalID: 3010992244935576726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5c5ddf82bd6da10800000000000000
+      internalID: 1933974059106026932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa8149ed2b45350800000000000000
+      internalID: 6004620872228842238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c5fb3ec6f88da20800000000000000
+      internalID: 3087375242402683933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 610
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31215c6d290839ed0800000000000000
+      internalID: -2408440007556263405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 605
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8169c3fd815cdc3d0800000000000000
+      internalID: -3184672650865895912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 599
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ffb46f18d754940800000000000000
+      internalID: 5279764135298203482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 548
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4860a0694e79efb00800000000000000
+      internalID: 864295186527291012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa88a79b79bcde0800000000000000
+      internalID: -1311788043567845534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 546
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3e0a9e59919af30800000000000000
+      internalID: 4587225827114017755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452357f5ac9896630800000000000000
+      internalID: 3920816452880642644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 544
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cc919105afc0b30800000000000000
+      internalID: 4255050969883724957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 550
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9988fac7cace47a70800000000000000
+      internalID: 8823937795496052889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d38c6611bc683450800000000000000
+      internalID: 6068720005722964946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f37a7a9727ab8cc0800000000000000
+      internalID: -3707686079672192014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 538
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6790413199ae72f10800000000000000
+      internalID: 2245020882438457718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 537
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c2e10b4c1e26f0800000000000000
+      internalID: -707596982970825441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 485
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc20aeea867a080800000000000000
+      internalID: -9176250615284445933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f40411e3dd20b90800000000000000
+      internalID: -7277010789230162033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61af2e81d783609f0800000000000000
+      internalID: -502652198465635818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcfef789ec960010800000000000000
+      internalID: 1154782881290058930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794930b4bc1510de0800000000000000
+      internalID: -1368722878165183337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a091f42397b85f80800000000000000
+      internalID: -8117536485727432543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ebd39252a2e6110800000000000000
+      internalID: 1255987685177015822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1e39b0f43a33950800000000000000
+      internalID: 6427660653079814581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7045b483bb07cd4e0800000000000000
+      internalID: -1955564188779981817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1c5a3e6076d70e0800000000000000
+      internalID: -2270545357838106113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa282072949c0880800000000000000
+      internalID: -8643370228163007828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8427f450edf0dbb0800000000000000
+      internalID: -4913148053521226613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eccc0bcacd58360800000000000000
+      internalID: 7171380615916080760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955bed28254ab5bd0800000000000000
+      internalID: -2640336082232756903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c558e02c0e8d5c2a0800000000000000
+      internalID: -6717724809313221284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fa21662024ebf80800000000000000
+      internalID: -8088955302640963792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48747c452e69cf0800000000000000
+      internalID: -245760275896630021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b281d728d13950800000000000000
+      internalID: 6427155808764736132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcae9fd27b1edc690800000000000000
+      internalID: -7580154420928058677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f8e151c266f010800000000000000
+      internalID: 1222272931320101012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 359
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1938397b388965780800000000000000
+      internalID: -8694594339104128111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b683cb3c26bde0800000000000000
+      internalID: -1317817205764212832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed5120722fd22ec0800000000000000
+      internalID: -3593064213685117469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79477ad429c78d400800000000000000
+      internalID: 349165938931102871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb07fd4463a63520800000000000000
+      internalID: 2681510279345802235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0acc73e186d62490800000000000000
+      internalID: -7771288253625480690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2837709a0df8e70b0800000000000000
+      internalID: -5728983549616884862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db66afb33f504b0800000000000000
+      internalID: -5474702333069312675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c01d0f3fe1a773f0800000000000000
+      internalID: -903075151337418554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f30bdfcae00dd90800000000000000
+      internalID: -7075138878445699270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d17c3b684ff92160800000000000000
+      internalID: 7001407782225998297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9e447c24db41d0800000000000000
+      internalID: -3365363009134355495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_light01_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b0c713a3ba63730800000000000000
+      internalID: 3978555587255077729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      head_hair_light01_0: 3610005649502280706
+      head_hair_light01_1: -7227860723000136796
+      head_hair_light01_10: 864295186527291012
+      head_hair_light01_11: -1311788043567845534
+      head_hair_light01_12: 4587225827114017755
+      head_hair_light01_13: 3920816452880642644
+      head_hair_light01_14: 4255050969883724957
+      head_hair_light01_15: 8823937795496052889
+      head_hair_light01_16: 6068720005722964946
+      head_hair_light01_17: -3707686079672192014
+      head_hair_light01_18: 2245020882438457718
+      head_hair_light01_19: -707596982970825441
+      head_hair_light01_2: 3619804300739591368
+      head_hair_light01_20: -9176250615284445933
+      head_hair_light01_21: -7277010789230162033
+      head_hair_light01_22: -502652198465635818
+      head_hair_light01_23: 1154782881290058930
+      head_hair_light01_24: -1368722878165183337
+      head_hair_light01_25: -8117536485727432543
+      head_hair_light01_26: 1255987685177015822
+      head_hair_light01_27: 6427660653079814581
+      head_hair_light01_28: -1955564188779981817
+      head_hair_light01_29: -2270545357838106113
+      head_hair_light01_3: 3010992244935576726
+      head_hair_light01_30: -8643370228163007828
+      head_hair_light01_31: -4913148053521226613
+      head_hair_light01_32: 7171380615916080760
+      head_hair_light01_33: -2640336082232756903
+      head_hair_light01_34: -6717724809313221284
+      head_hair_light01_35: -8088955302640963792
+      head_hair_light01_36: -245760275896630021
+      head_hair_light01_37: 6427155808764736132
+      head_hair_light01_38: -7580154420928058677
+      head_hair_light01_39: 1222272931320101012
+      head_hair_light01_4: 1933974059106026932
+      head_hair_light01_40: -8694594339104128111
+      head_hair_light01_41: -1317817205764212832
+      head_hair_light01_42: -3593064213685117469
+      head_hair_light01_43: 349165938931102871
+      head_hair_light01_44: 2681510279345802235
+      head_hair_light01_45: -7771288253625480690
+      head_hair_light01_46: -5728983549616884862
+      head_hair_light01_47: -5474702333069312675
+      head_hair_light01_48: -903075151337418554
+      head_hair_light01_49: -7075138878445699270
+      head_hair_light01_5: 6004620872228842238
+      head_hair_light01_50: 7001407782225998297
+      head_hair_light01_51: -3365363009134355495
+      head_hair_light01_52: 3978555587255077729
+      head_hair_light01_6: 3087375242402683933
+      head_hair_light01_7: -2408440007556263405
+      head_hair_light01_8: -3184672650865895912
+      head_hair_light01_9: 5279764135298203482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

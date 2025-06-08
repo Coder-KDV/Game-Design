@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: cb60d4d6839d847a19debd05dd2615df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4704966999851622419
+    second: outfit_ninja_gray_0
+  - first:
+      213: 5887752289311084263
+    second: outfit_ninja_gray_1
+  - first:
+      213: 2838277372047271117
+    second: outfit_ninja_gray_2
+  - first:
+      213: -356585647280648757
+    second: outfit_ninja_gray_3
+  - first:
+      213: -2163780095487286147
+    second: outfit_ninja_gray_4
+  - first:
+      213: 1130999025810716349
+    second: outfit_ninja_gray_5
+  - first:
+      213: 1500406545488739859
+    second: outfit_ninja_gray_6
+  - first:
+      213: -331666954028523823
+    second: outfit_ninja_gray_7
+  - first:
+      213: 5433980842525591530
+    second: outfit_ninja_gray_8
+  - first:
+      213: 4942355496012415390
+    second: outfit_ninja_gray_9
+  - first:
+      213: 8271228389291875398
+    second: outfit_ninja_gray_10
+  - first:
+      213: 6063448357321114460
+    second: outfit_ninja_gray_11
+  - first:
+      213: -1975362887428219799
+    second: outfit_ninja_gray_12
+  - first:
+      213: -5358731077215315647
+    second: outfit_ninja_gray_13
+  - first:
+      213: -6253208369386042284
+    second: outfit_ninja_gray_14
+  - first:
+      213: 5023378748087787366
+    second: outfit_ninja_gray_15
+  - first:
+      213: -6429676745523323408
+    second: outfit_ninja_gray_16
+  - first:
+      213: -7556369262450078368
+    second: outfit_ninja_gray_17
+  - first:
+      213: -3232751501650547715
+    second: outfit_ninja_gray_18
+  - first:
+      213: 5723143718965859741
+    second: outfit_ninja_gray_19
+  - first:
+      213: -3981903126129347834
+    second: outfit_ninja_gray_20
+  - first:
+      213: 1720734546555933579
+    second: outfit_ninja_gray_21
+  - first:
+      213: 8922239439040891726
+    second: outfit_ninja_gray_22
+  - first:
+      213: -7744796052295786892
+    second: outfit_ninja_gray_23
+  - first:
+      213: 5652652094606540228
+    second: outfit_ninja_gray_24
+  - first:
+      213: 6238932940867655564
+    second: outfit_ninja_gray_25
+  - first:
+      213: -5746547233324875760
+    second: outfit_ninja_gray_26
+  - first:
+      213: 5085147612768841524
+    second: outfit_ninja_gray_27
+  - first:
+      213: 1761849454904253450
+    second: outfit_ninja_gray_28
+  - first:
+      213: -7004195629037219441
+    second: outfit_ninja_gray_29
+  - first:
+      213: -8126289860311548978
+    second: outfit_ninja_gray_30
+  - first:
+      213: 9112865865633057656
+    second: outfit_ninja_gray_31
+  - first:
+      213: -5555986761279803441
+    second: outfit_ninja_gray_32
+  - first:
+      213: 2512433791145062474
+    second: outfit_ninja_gray_33
+  - first:
+      213: 1971395068522799273
+    second: outfit_ninja_gray_34
+  - first:
+      213: -3019991227920444903
+    second: outfit_ninja_gray_35
+  - first:
+      213: -2761216186053787445
+    second: outfit_ninja_gray_36
+  - first:
+      213: -5664375947930245364
+    second: outfit_ninja_gray_37
+  - first:
+      213: -1960722667490449456
+    second: outfit_ninja_gray_38
+  - first:
+      213: -5424722492933886993
+    second: outfit_ninja_gray_39
+  - first:
+      213: 4796036616920282769
+    second: outfit_ninja_gray_40
+  - first:
+      213: -3679174194295704142
+    second: outfit_ninja_gray_41
+  - first:
+      213: 1548077570823781471
+    second: outfit_ninja_gray_42
+  - first:
+      213: 7569070749120592269
+    second: outfit_ninja_gray_43
+  - first:
+      213: -4502849320810956092
+    second: outfit_ninja_gray_44
+  - first:
+      213: 7313838968978818997
+    second: outfit_ninja_gray_45
+  - first:
+      213: 3674131571365449747
+    second: outfit_ninja_gray_46
+  - first:
+      213: -8371336941933426148
+    second: outfit_ninja_gray_47
+  - first:
+      213: -8332707425016047675
+    second: outfit_ninja_gray_48
+  - first:
+      213: 5264006755607499626
+    second: outfit_ninja_gray_49
+  - first:
+      213: 1784902611463618054
+    second: outfit_ninja_gray_50
+  - first:
+      213: 7107842953402522745
+    second: outfit_ninja_gray_51
+  - first:
+      213: 7074679303828638913
+    second: outfit_ninja_gray_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_ninja_gray_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def98ed017994beb0800000000000000
+      internalID: -4704966999851622419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee41e1338f75b150800000000000000
+      internalID: 5887752289311084263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc428e66b36936720800000000000000
+      internalID: 2838277372047271117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd85d93e372d0bf0800000000000000
+      internalID: -356585647280648757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746b64a775b8f1e0800000000000000
+      internalID: -2163780095487286147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6b2c62f9d12bf00800000000000000
+      internalID: 1130999025810716349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ef68abdc382d410800000000000000
+      internalID: 1500406545488739859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ded46d99aea56bf0800000000000000
+      internalID: -331666954028523823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 575
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7040b29c0696b40800000000000000
+      internalID: 5433980842525591530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 575
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91058d4326c69440800000000000000
+      internalID: 4942355496012415390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c5edfa56e49c270800000000000000
+      internalID: 8271228389291875398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c530d0cc722b52450800000000000000
+      internalID: 6063448357321114460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cd9587be91694e0800000000000000
+      internalID: -1975362887428219799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 511
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1491cbf1a76f1a5b0800000000000000
+      internalID: -5358731077215315647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 511
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cce347e142839a0800000000000000
+      internalID: -6253208369386042284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 511
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd40c3b50a6b540800000000000000
+      internalID: 5023378748087787366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd1e7ad01335c6a0800000000000000
+      internalID: -6429676745523323408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d8bffe032622790800000000000000
+      internalID: -7556369262450078368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 513
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb220913a5f223d0800000000000000
+      internalID: -3232751501650547715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 511
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d77fc3e0bc6f40800000000000000
+      internalID: 5723143718965859741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603fa0d24307db8c0800000000000000
+      internalID: -3981903126129347834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83953804f641e710800000000000000
+      internalID: 1720734546555933579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b430d6f7922db70800000000000000
+      internalID: 8922239439040891726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47edf0d2605f48490800000000000000
+      internalID: -7744796052295786892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf3e98121427e40800000000000000
+      internalID: 5652652094606540228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8756e55474259650800000000000000
+      internalID: 6238932940867655564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 447
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010caa0ecb92040b0800000000000000
+      internalID: -5746547233324875760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f2381cfc2129640800000000000000
+      internalID: 5085147612768841524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c984b9eb8537810800000000000000
+      internalID: 1761849454904253450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8194e96f291cce90800000000000000
+      internalID: -7004195629037219441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb754e4d6e993f80800000000000000
+      internalID: -8126289860311548978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 383
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b47d60937677e70800000000000000
+      internalID: 9112865865633057656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 383
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfe42d3a7b25e2b0800000000000000
+      internalID: -5555986761279803441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 383
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40b3eab835fdd220800000000000000
+      internalID: 2512433791145062474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 383
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a02243be5dcb5b10800000000000000
+      internalID: 1971395068522799273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 383
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91291039af5d616d0800000000000000
+      internalID: -3019991227920444903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 383
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0843222803ea9d0800000000000000
+      internalID: -2761216186053787445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 383
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e95526181461b0800000000000000
+      internalID: -5664375947930245364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 383
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7ec2d4f1d1ac4e0800000000000000
+      internalID: -1960722667490449456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 383
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febaa9352a387b4b0800000000000000
+      internalID: -5424722492933886993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 319
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196bc4184e1fe8240800000000000000
+      internalID: 4796036616920282769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5783a3092f0fcc0800000000000000
+      internalID: -3679174194295704142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c73bd3950eb7510800000000000000
+      internalID: 1548077570823781471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f1216ebdba0960800000000000000
+      internalID: 7569070749120592269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca34fb566aa281c0800000000000000
+      internalID: -4502849320810956092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7446abac9ff7560800000000000000
+      internalID: 7313838968978818997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3101941a2332df230800000000000000
+      internalID: 3674131571365449747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 319
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a04f0976903db80800000000000000
+      internalID: -8371336941933426148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_48
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 319
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c798aadeb64c5c80800000000000000
+      internalID: -8332707425016047675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 319
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63dd3b11428d0940800000000000000
+      internalID: 5264006755607499626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 255
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb4f2e77f35c810800000000000000
+      internalID: 1784902611463618054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 257
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c12d4d18124a260800000000000000
+      internalID: 7107842953402522745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_gray_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 255
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc8384f75f4e2260800000000000000
+      internalID: 7074679303828638913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_ninja_gray_0: -4704966999851622419
+      outfit_ninja_gray_1: 5887752289311084263
+      outfit_ninja_gray_10: 8271228389291875398
+      outfit_ninja_gray_11: 6063448357321114460
+      outfit_ninja_gray_12: -1975362887428219799
+      outfit_ninja_gray_13: -5358731077215315647
+      outfit_ninja_gray_14: -6253208369386042284
+      outfit_ninja_gray_15: 5023378748087787366
+      outfit_ninja_gray_16: -6429676745523323408
+      outfit_ninja_gray_17: -7556369262450078368
+      outfit_ninja_gray_18: -3232751501650547715
+      outfit_ninja_gray_19: 5723143718965859741
+      outfit_ninja_gray_2: 2838277372047271117
+      outfit_ninja_gray_20: -3981903126129347834
+      outfit_ninja_gray_21: 1720734546555933579
+      outfit_ninja_gray_22: 8922239439040891726
+      outfit_ninja_gray_23: -7744796052295786892
+      outfit_ninja_gray_24: 5652652094606540228
+      outfit_ninja_gray_25: 6238932940867655564
+      outfit_ninja_gray_26: -5746547233324875760
+      outfit_ninja_gray_27: 5085147612768841524
+      outfit_ninja_gray_28: 1761849454904253450
+      outfit_ninja_gray_29: -7004195629037219441
+      outfit_ninja_gray_3: -356585647280648757
+      outfit_ninja_gray_30: -8126289860311548978
+      outfit_ninja_gray_31: 9112865865633057656
+      outfit_ninja_gray_32: -5555986761279803441
+      outfit_ninja_gray_33: 2512433791145062474
+      outfit_ninja_gray_34: 1971395068522799273
+      outfit_ninja_gray_35: -3019991227920444903
+      outfit_ninja_gray_36: -2761216186053787445
+      outfit_ninja_gray_37: -5664375947930245364
+      outfit_ninja_gray_38: -1960722667490449456
+      outfit_ninja_gray_39: -5424722492933886993
+      outfit_ninja_gray_4: -2163780095487286147
+      outfit_ninja_gray_40: 4796036616920282769
+      outfit_ninja_gray_41: -3679174194295704142
+      outfit_ninja_gray_42: 1548077570823781471
+      outfit_ninja_gray_43: 7569070749120592269
+      outfit_ninja_gray_44: -4502849320810956092
+      outfit_ninja_gray_45: 7313838968978818997
+      outfit_ninja_gray_46: 3674131571365449747
+      outfit_ninja_gray_47: -8371336941933426148
+      outfit_ninja_gray_48: -8332707425016047675
+      outfit_ninja_gray_49: 5264006755607499626
+      outfit_ninja_gray_5: 1130999025810716349
+      outfit_ninja_gray_50: 1784902611463618054
+      outfit_ninja_gray_51: 7107842953402522745
+      outfit_ninja_gray_52: 7074679303828638913
+      outfit_ninja_gray_6: 1500406545488739859
+      outfit_ninja_gray_7: -331666954028523823
+      outfit_ninja_gray_8: 5433980842525591530
+      outfit_ninja_gray_9: 4942355496012415390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

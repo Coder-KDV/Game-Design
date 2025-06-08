@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 990e1655354d44889b80914d52a4cfa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4774634670022053300
+    second: base_undead_0
+  - first:
+      213: -625148776314797390
+    second: base_undead_1
+  - first:
+      213: 6395176340391279594
+    second: base_undead_2
+  - first:
+      213: 5442603665636586926
+    second: base_undead_3
+  - first:
+      213: -6583113289311147318
+    second: base_undead_4
+  - first:
+      213: -875240547270570541
+    second: base_undead_5
+  - first:
+      213: -7434361607992475988
+    second: base_undead_6
+  - first:
+      213: -9187463147168502407
+    second: base_undead_7
+  - first:
+      213: -7328703890026572896
+    second: base_undead_8
+  - first:
+      213: -1926831861512111528
+    second: base_undead_9
+  - first:
+      213: 6649682849735701717
+    second: base_undead_10
+  - first:
+      213: -1138069440251909142
+    second: base_undead_11
+  - first:
+      213: 5048040965848672678
+    second: base_undead_12
+  - first:
+      213: -4234529730689662331
+    second: base_undead_13
+  - first:
+      213: -552195924095556559
+    second: base_undead_14
+  - first:
+      213: -7260842501872325659
+    second: base_undead_15
+  - first:
+      213: 1517177044300275795
+    second: base_undead_16
+  - first:
+      213: 8126146950639041241
+    second: base_undead_17
+  - first:
+      213: 2321720965063579043
+    second: base_undead_18
+  - first:
+      213: 243149870087627353
+    second: base_undead_19
+  - first:
+      213: 2372662720957058049
+    second: base_undead_20
+  - first:
+      213: -5536539210389308845
+    second: base_undead_21
+  - first:
+      213: -4368964809324644460
+    second: base_undead_22
+  - first:
+      213: 9017830315170399039
+    second: base_undead_23
+  - first:
+      213: 5304263520131181415
+    second: base_undead_24
+  - first:
+      213: 3122303902406077016
+    second: base_undead_25
+  - first:
+      213: -4189758952031471936
+    second: base_undead_26
+  - first:
+      213: -8047654943757953410
+    second: base_undead_27
+  - first:
+      213: -5309484521793774753
+    second: base_undead_28
+  - first:
+      213: -1206754104849452515
+    second: base_undead_29
+  - first:
+      213: 8222064870223505487
+    second: base_undead_30
+  - first:
+      213: -525622269199585057
+    second: base_undead_31
+  - first:
+      213: -6283910640958907616
+    second: base_undead_32
+  - first:
+      213: 2047175933903573048
+    second: base_undead_33
+  - first:
+      213: -8439375411696877573
+    second: base_undead_34
+  - first:
+      213: 8428372294483000425
+    second: base_undead_35
+  - first:
+      213: -6541529334429143982
+    second: base_undead_36
+  - first:
+      213: 312429047654726162
+    second: base_undead_37
+  - first:
+      213: -5310396706227627907
+    second: base_undead_38
+  - first:
+      213: -4728418313975599846
+    second: base_undead_39
+  - first:
+      213: 4406269027516177981
+    second: base_undead_40
+  - first:
+      213: -5550141212162075146
+    second: base_undead_41
+  - first:
+      213: -6106472617947066187
+    second: base_undead_42
+  - first:
+      213: 6931272862394346644
+    second: base_undead_43
+  - first:
+      213: 8227363870246164714
+    second: base_undead_44
+  - first:
+      213: 4379519762945135687
+    second: base_undead_45
+  - first:
+      213: -6617802630501778775
+    second: base_undead_46
+  - first:
+      213: -4653936753805766751
+    second: base_undead_47
+  - first:
+      213: 3500700759154726054
+    second: base_undead_48
+  - first:
+      213: -2423991431836556320
+    second: base_undead_49
+  - first:
+      213: 122411204352708682
+    second: base_undead_50
+  - first:
+      213: 2805386533928482325
+    second: base_undead_51
+  - first:
+      213: -7389294558023895405
+    second: base_undead_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: base_undead_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdcdee6fe8e24240800000000000000
+      internalID: 4774634670022053300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b28cf700860357f0800000000000000
+      internalID: -625148776314797390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb310d9ffa30c850800000000000000
+      internalID: 6395176340391279594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5f18f9233088b40800000000000000
+      internalID: 5442603665636586926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa47a975514a4a0800000000000000
+      internalID: -6583113289311147318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd4be60c558ad3f0800000000000000
+      internalID: -875240547270570541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae7ec7a187d3d890800000000000000
+      internalID: -7434361607992475988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d6706e1f29f7080800000000000000
+      internalID: -9187463147168502407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 575
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a351f224a63b4a90800000000000000
+      internalID: -7328703890026572896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 575
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a7aa871a48245e0800000000000000
+      internalID: -1926831861512111528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4f08ff15b684c50800000000000000
+      internalID: 6649682849735701717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebae04bfd3c430f0800000000000000
+      internalID: -1138069440251909142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9a705438e3e0640800000000000000
+      internalID: 5048040965848672678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 511
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582896b35adeb35c0800000000000000
+      internalID: -4234529730689662331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 511
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134add19bb43658f0800000000000000
+      internalID: -552195924095556559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 511
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb67d1d63e4c3b90800000000000000
+      internalID: -7260842501872325659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35025e2cb781e0510800000000000000
+      internalID: 1517177044300275795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab671f89fd5c070800000000000000
+      internalID: 8126146950639041241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 513
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5113eaae8683020800000000000000
+      internalID: 2321720965063579043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 511
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95261c1c487df5300800000000000000
+      internalID: 243149870087627353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c057e7c246de020800000000000000
+      internalID: 2372662720957058049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a39b70ce24a23b0800000000000000
+      internalID: -5536539210389308845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497b50857a15e53c0800000000000000
+      internalID: -4368964809324644460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f330b74a4e4c52d70800000000000000
+      internalID: 9017830315170399039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b6b7081978c9940800000000000000
+      internalID: 5304263520131181415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aeab74bd6a45b20800000000000000
+      internalID: 3122303902406077016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 447
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b6a17e6cfad5c0800000000000000
+      internalID: -4189758952031471936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76146a877cf05090800000000000000
+      internalID: -8047654943757953410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b1c0255fbe056b0800000000000000
+      internalID: -5309484521793774753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d123439098fb04fe0800000000000000
+      internalID: -1206754104849452515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e3e5ef64aa1270800000000000000
+      internalID: 8222064870223505487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 383
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0f25eb45d94b8f0800000000000000
+      internalID: -525622269199585057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 383
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd85dc0901bc8a0800000000000000
+      internalID: -6283910640958907616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 383
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8301d0d5aa7096c10800000000000000
+      internalID: 2047175933903573048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 383
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff34abd6c051ea80800000000000000
+      internalID: -8439375411696877573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 383
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c376742f797f470800000000000000
+      internalID: 8428372294483000425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 383
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cad859ab1d735a0800000000000000
+      internalID: -6541529334429143982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 383
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a39f24098f55400800000000000000
+      internalID: 312429047654726162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 383
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78d5e4d45ead46b0800000000000000
+      internalID: -5310396706227627907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 383
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d680e7898416eb0800000000000000
+      internalID: -4728418313975599846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 319
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e58e9c556362d30800000000000000
+      internalID: 4406269027516177981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5d2d339ffe9f2b0800000000000000
+      internalID: -5550141212162075146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b09d98e183714ba0800000000000000
+      internalID: -6106472617947066187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ce154e1f3d03060800000000000000
+      internalID: 6931272862394346644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8d7eb79d77d2270800000000000000
+      internalID: 8227363870246164714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744d52d450e27cc30800000000000000
+      internalID: 4379519762945135687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aabb47f197d824a0800000000000000
+      internalID: -6617802630501778775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 319
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afc5461e25e96fb0800000000000000
+      internalID: -4653936753805766751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_48
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 319
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a49b5efaccf49030800000000000000
+      internalID: 3500700759154726054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 319
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3aac6b2a04c5ed0800000000000000
+      internalID: -2423991431836556320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 255
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4098ff7754e2b100800000000000000
+      internalID: 122411204352708682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 257
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b874603cbee620800000000000000
+      internalID: 2805386533928482325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_undead_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 255
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963248efb3f37990800000000000000
+      internalID: -7389294558023895405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      base_undead_0: 4774634670022053300
+      base_undead_1: -625148776314797390
+      base_undead_10: 6649682849735701717
+      base_undead_11: -1138069440251909142
+      base_undead_12: 5048040965848672678
+      base_undead_13: -4234529730689662331
+      base_undead_14: -552195924095556559
+      base_undead_15: -7260842501872325659
+      base_undead_16: 1517177044300275795
+      base_undead_17: 8126146950639041241
+      base_undead_18: 2321720965063579043
+      base_undead_19: 243149870087627353
+      base_undead_2: 6395176340391279594
+      base_undead_20: 2372662720957058049
+      base_undead_21: -5536539210389308845
+      base_undead_22: -4368964809324644460
+      base_undead_23: 9017830315170399039
+      base_undead_24: 5304263520131181415
+      base_undead_25: 3122303902406077016
+      base_undead_26: -4189758952031471936
+      base_undead_27: -8047654943757953410
+      base_undead_28: -5309484521793774753
+      base_undead_29: -1206754104849452515
+      base_undead_3: 5442603665636586926
+      base_undead_30: 8222064870223505487
+      base_undead_31: -525622269199585057
+      base_undead_32: -6283910640958907616
+      base_undead_33: 2047175933903573048
+      base_undead_34: -8439375411696877573
+      base_undead_35: 8428372294483000425
+      base_undead_36: -6541529334429143982
+      base_undead_37: 312429047654726162
+      base_undead_38: -5310396706227627907
+      base_undead_39: -4728418313975599846
+      base_undead_4: -6583113289311147318
+      base_undead_40: 4406269027516177981
+      base_undead_41: -5550141212162075146
+      base_undead_42: -6106472617947066187
+      base_undead_43: 6931272862394346644
+      base_undead_44: 8227363870246164714
+      base_undead_45: 4379519762945135687
+      base_undead_46: -6617802630501778775
+      base_undead_47: -4653936753805766751
+      base_undead_48: 3500700759154726054
+      base_undead_49: -2423991431836556320
+      base_undead_5: -875240547270570541
+      base_undead_50: 122411204352708682
+      base_undead_51: 2805386533928482325
+      base_undead_52: -7389294558023895405
+      base_undead_6: -7434361607992475988
+      base_undead_7: -9187463147168502407
+      base_undead_8: -7328703890026572896
+      base_undead_9: -1926831861512111528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

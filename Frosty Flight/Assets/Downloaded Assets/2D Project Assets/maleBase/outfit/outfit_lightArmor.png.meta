@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: e7d73d603350e41f3b56feb50468e11e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4275029999640795594
+    second: outfit_lightArmor_0
+  - first:
+      213: 9178390395986739617
+    second: outfit_lightArmor_1
+  - first:
+      213: -8073695782094347593
+    second: outfit_lightArmor_2
+  - first:
+      213: -3840380623912373381
+    second: outfit_lightArmor_3
+  - first:
+      213: 6919351255879200761
+    second: outfit_lightArmor_4
+  - first:
+      213: -5113318888090436824
+    second: outfit_lightArmor_5
+  - first:
+      213: -7022167647594116814
+    second: outfit_lightArmor_6
+  - first:
+      213: 6466609658619623264
+    second: outfit_lightArmor_7
+  - first:
+      213: 6276444718942733483
+    second: outfit_lightArmor_8
+  - first:
+      213: 3363719779306173841
+    second: outfit_lightArmor_9
+  - first:
+      213: 5625867875966680123
+    second: outfit_lightArmor_10
+  - first:
+      213: 9087496094221608003
+    second: outfit_lightArmor_11
+  - first:
+      213: -7975916935232313810
+    second: outfit_lightArmor_12
+  - first:
+      213: -2209130566839887020
+    second: outfit_lightArmor_13
+  - first:
+      213: 451954756636460362
+    second: outfit_lightArmor_14
+  - first:
+      213: 2335674210669939004
+    second: outfit_lightArmor_15
+  - first:
+      213: 2278278205667386072
+    second: outfit_lightArmor_16
+  - first:
+      213: -4734857776602243262
+    second: outfit_lightArmor_17
+  - first:
+      213: -4226755000033636578
+    second: outfit_lightArmor_18
+  - first:
+      213: -8771341583547137960
+    second: outfit_lightArmor_19
+  - first:
+      213: 4098293002508641988
+    second: outfit_lightArmor_20
+  - first:
+      213: 3028548401044255435
+    second: outfit_lightArmor_21
+  - first:
+      213: -4519076927136729899
+    second: outfit_lightArmor_22
+  - first:
+      213: 668319472820946892
+    second: outfit_lightArmor_23
+  - first:
+      213: 638870444302125037
+    second: outfit_lightArmor_24
+  - first:
+      213: -4425440491798537924
+    second: outfit_lightArmor_25
+  - first:
+      213: -4473831966149531885
+    second: outfit_lightArmor_26
+  - first:
+      213: -6731483899972779374
+    second: outfit_lightArmor_27
+  - first:
+      213: 5720607974524100396
+    second: outfit_lightArmor_28
+  - first:
+      213: 4916575530540186472
+    second: outfit_lightArmor_29
+  - first:
+      213: 2980927079669815823
+    second: outfit_lightArmor_30
+  - first:
+      213: 4512712886551072010
+    second: outfit_lightArmor_31
+  - first:
+      213: 2486881279530668828
+    second: outfit_lightArmor_32
+  - first:
+      213: -2572031011727747782
+    second: outfit_lightArmor_33
+  - first:
+      213: -3552478579289174456
+    second: outfit_lightArmor_34
+  - first:
+      213: 8496276619337513262
+    second: outfit_lightArmor_35
+  - first:
+      213: -996999141437616515
+    second: outfit_lightArmor_36
+  - first:
+      213: -5285455706769818809
+    second: outfit_lightArmor_37
+  - first:
+      213: -6579644536268990652
+    second: outfit_lightArmor_38
+  - first:
+      213: -7886738822632754376
+    second: outfit_lightArmor_39
+  - first:
+      213: 3204208244815959245
+    second: outfit_lightArmor_40
+  - first:
+      213: -7018374190802858150
+    second: outfit_lightArmor_41
+  - first:
+      213: 8989994988479326542
+    second: outfit_lightArmor_42
+  - first:
+      213: -740402266035221914
+    second: outfit_lightArmor_43
+  - first:
+      213: -4571692079208271465
+    second: outfit_lightArmor_44
+  - first:
+      213: 8459148230001192525
+    second: outfit_lightArmor_45
+  - first:
+      213: 7480407234803838069
+    second: outfit_lightArmor_46
+  - first:
+      213: -85551830577272832
+    second: outfit_lightArmor_47
+  - first:
+      213: 5881546994592838139
+    second: outfit_lightArmor_48
+  - first:
+      213: -1203242171680061727
+    second: outfit_lightArmor_49
+  - first:
+      213: 739480525176023061
+    second: outfit_lightArmor_50
+  - first:
+      213: 781513881992069275
+    second: outfit_lightArmor_51
+  - first:
+      213: -1013672781198458848
+    second: outfit_lightArmor_52
+  - first:
+      213: 1835451431468556252
+    second: outfit_lightArmor_53
+  - first:
+      213: -5382403072986969234
+    second: outfit_lightArmor_54
+  - first:
+      213: -4600451215890422995
+    second: outfit_lightArmor_55
+  - first:
+      213: -6352328267742839240
+    second: outfit_lightArmor_56
+  - first:
+      213: -6125930925279702685
+    second: outfit_lightArmor_57
+  - first:
+      213: -311734904813315306
+    second: outfit_lightArmor_58
+  - first:
+      213: -7925771627255321557
+    second: outfit_lightArmor_59
+  - first:
+      213: 8804963601299352810
+    second: outfit_lightArmor_60
+  - first:
+      213: 5993513551362094144
+    second: outfit_lightArmor_61
+  - first:
+      213: -7297237925457871885
+    second: outfit_lightArmor_62
+  - first:
+      213: -5684109139452947912
+    second: outfit_lightArmor_63
+  - first:
+      213: 1061420698506938440
+    second: outfit_lightArmor_64
+  - first:
+      213: -1672896592696885971
+    second: outfit_lightArmor_65
+  - first:
+      213: 8009130762003040313
+    second: outfit_lightArmor_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_lightArmor_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 576
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a54b8dda0ca4c0800000000000000
+      internalID: -4275029999640795594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 576
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a185aa9f61306f70800000000000000
+      internalID: 9178390395986739617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 576
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b262b3667874ff80800000000000000
+      internalID: -8073695782094347593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 576
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f8657b2a34bac0800000000000000
+      internalID: -3840380623912373381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff25d29e49760060800000000000000
+      internalID: 6919351255879200761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 576
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf2141097d909b0800000000000000
+      internalID: -5113318888090436824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23989e3cabf3c8e90800000000000000
+      internalID: -7022167647594116814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 576
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067f12319330eb950800000000000000
+      internalID: 6466609658619623264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 597
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba445f4c7396a1750800000000000000
+      internalID: 6276444718942733483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 576
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ff7941555eae20800000000000000
+      internalID: 3363719779306173841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 576
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c764ca609131e40800000000000000
+      internalID: 5625867875966680123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 594
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34424d1dc854d1e70800000000000000
+      internalID: 9087496094221608003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 589
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a47d3ec9df4190800000000000000
+      internalID: -7975916935232313810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 576
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b1d0534779751e0800000000000000
+      internalID: -2209130566839887020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 536
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a454dd3e47aa54600800000000000000
+      internalID: 451954756636460362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 512
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c506d15bf96020800000000000000
+      internalID: 2335674210669939004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 512
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a15c05f11e9f10800000000000000
+      internalID: 2278278205667386072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 538
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f90a340f76a4eb0800000000000000
+      internalID: -4734857776602243262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 538
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f8366c8bc8755c0800000000000000
+      internalID: -4226755000033636578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 539
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8508f056d4fe54680800000000000000
+      internalID: -8771341583547137960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 514
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c62ff7a5cf00e830800000000000000
+      internalID: 4098293002508641988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 541
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f15d89b0970a20800000000000000
+      internalID: 3028548401044255435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 512
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4f9555a730941c0800000000000000
+      internalID: -4519076927136729899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 541
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc708f50509564900800000000000000
+      internalID: 668319472820946892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7cf12c849bdd800800000000000000
+      internalID: 638870444302125037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 512
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d7b7d15da592c0800000000000000
+      internalID: -4425440491798537924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 512
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317aed8b781c9e1c0800000000000000
+      internalID: -4473831966149531885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 512
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2928cd2de07f492a0800000000000000
+      internalID: -6731483899972779374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 512
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f96ccc4aea36f40800000000000000
+      internalID: 5720607974524100396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 512
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bb939556f2b3440800000000000000
+      internalID: 4916575530540186472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 512
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0adf05a2616e5920800000000000000
+      internalID: 2980927079669815823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 512
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d4430067060ae30800000000000000
+      internalID: 4512712886551072010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 448
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c139ef0095d238220800000000000000
+      internalID: 2486881279530668828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35ddaa0c6f4e4cd0800000000000000
+      internalID: -2572031011727747782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ec841dd8f03bec0800000000000000
+      internalID: -3552478579289174456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b111f196d8e570800000000000000
+      internalID: 8496276619337513262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 448
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ecd3d2092f922f0800000000000000
+      internalID: -996999141437616515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 448
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7ce9c90a46a6b0800000000000000
+      internalID: -5285455706769818809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 448
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447d85b972860b4a0800000000000000
+      internalID: -6579644536268990652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 448
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83331b893dcac8290800000000000000
+      internalID: -7886738822632754376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc412aa0c62a77c20800000000000000
+      internalID: 3204208244815959245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 448
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f0d60cbd9b99e90800000000000000
+      internalID: -7018374190802858150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e492adc9fc0e2cc70800000000000000
+      internalID: 8989994988479326542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a8316df0099b5f0800000000000000
+      internalID: -740402266035221914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791f25c96461e80c0800000000000000
+      internalID: -4571692079208271465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 384
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e68972f7ee46570800000000000000
+      internalID: 8459148230001192525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57caeb54fbebfc760800000000000000
+      internalID: 7480407234803838069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008ae88301f00def0800000000000000
+      internalID: -85551830577272832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f87e64d37f9150800000000000000
+      internalID: 5881546994592838139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68d32be993d4fe0800000000000000
+      internalID: -1203242171680061727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_50
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 384
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518af65ae99234a00800000000000000
+      internalID: 739480525176023061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b908c2b2cbe78da00800000000000000
+      internalID: 781513881992069275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 320
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200f26e9f5bee1f0800000000000000
+      internalID: -1013672781198458848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5a2f2a55d87910800000000000000
+      internalID: 1835451431468556252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 320
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b04ac1cecdd45b0800000000000000
+      internalID: -5382403072986969234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 320
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23665e4ef9e720c0800000000000000
+      internalID: -4600451215890422995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef388b81ff7d7a0800000000000000
+      internalID: -6352328267742839240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 320
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619f10b7425cfaa0800000000000000
+      internalID: -6125930925279702685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 320
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b138671ce7cabf0800000000000000
+      internalID: -311734904813315306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_59
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 320
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ca39292b0020290800000000000000
+      internalID: -7925771627255321557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_60
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 320
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec21b3aeb3813a70800000000000000
+      internalID: 8804963601299352810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 320
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0447d69e1dc3d2350800000000000000
+      internalID: 5993513551362094144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 256
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb339be4c00bba90800000000000000
+      internalID: -7297237925457871885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 283
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8321b567adcfd11b0800000000000000
+      internalID: -5684109139452947912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c0cb608ceabe00800000000000000
+      internalID: 1061420698506938440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 258
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d375e896da8c8e0800000000000000
+      internalID: -1672896592696885971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_lightArmor_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 256
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93848dc6ef5262f60800000000000000
+      internalID: 8009130762003040313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_lightArmor_0: -4275029999640795594
+      outfit_lightArmor_1: 9178390395986739617
+      outfit_lightArmor_10: 5625867875966680123
+      outfit_lightArmor_11: 9087496094221608003
+      outfit_lightArmor_12: -7975916935232313810
+      outfit_lightArmor_13: -2209130566839887020
+      outfit_lightArmor_14: 451954756636460362
+      outfit_lightArmor_15: 2335674210669939004
+      outfit_lightArmor_16: 2278278205667386072
+      outfit_lightArmor_17: -4734857776602243262
+      outfit_lightArmor_18: -4226755000033636578
+      outfit_lightArmor_19: -8771341583547137960
+      outfit_lightArmor_2: -8073695782094347593
+      outfit_lightArmor_20: 4098293002508641988
+      outfit_lightArmor_21: 3028548401044255435
+      outfit_lightArmor_22: -4519076927136729899
+      outfit_lightArmor_23: 668319472820946892
+      outfit_lightArmor_24: 638870444302125037
+      outfit_lightArmor_25: -4425440491798537924
+      outfit_lightArmor_26: -4473831966149531885
+      outfit_lightArmor_27: -6731483899972779374
+      outfit_lightArmor_28: 5720607974524100396
+      outfit_lightArmor_29: 4916575530540186472
+      outfit_lightArmor_3: -3840380623912373381
+      outfit_lightArmor_30: 2980927079669815823
+      outfit_lightArmor_31: 4512712886551072010
+      outfit_lightArmor_32: 2486881279530668828
+      outfit_lightArmor_33: -2572031011727747782
+      outfit_lightArmor_34: -3552478579289174456
+      outfit_lightArmor_35: 8496276619337513262
+      outfit_lightArmor_36: -996999141437616515
+      outfit_lightArmor_37: -5285455706769818809
+      outfit_lightArmor_38: -6579644536268990652
+      outfit_lightArmor_39: -7886738822632754376
+      outfit_lightArmor_4: 6919351255879200761
+      outfit_lightArmor_40: 3204208244815959245
+      outfit_lightArmor_41: -7018374190802858150
+      outfit_lightArmor_42: 8989994988479326542
+      outfit_lightArmor_43: -740402266035221914
+      outfit_lightArmor_44: -4571692079208271465
+      outfit_lightArmor_45: 8459148230001192525
+      outfit_lightArmor_46: 7480407234803838069
+      outfit_lightArmor_47: -85551830577272832
+      outfit_lightArmor_48: 5881546994592838139
+      outfit_lightArmor_49: -1203242171680061727
+      outfit_lightArmor_5: -5113318888090436824
+      outfit_lightArmor_50: 739480525176023061
+      outfit_lightArmor_51: 781513881992069275
+      outfit_lightArmor_52: -1013672781198458848
+      outfit_lightArmor_53: 1835451431468556252
+      outfit_lightArmor_54: -5382403072986969234
+      outfit_lightArmor_55: -4600451215890422995
+      outfit_lightArmor_56: -6352328267742839240
+      outfit_lightArmor_57: -6125930925279702685
+      outfit_lightArmor_58: -311734904813315306
+      outfit_lightArmor_59: -7925771627255321557
+      outfit_lightArmor_6: -7022167647594116814
+      outfit_lightArmor_60: 8804963601299352810
+      outfit_lightArmor_61: 5993513551362094144
+      outfit_lightArmor_62: -7297237925457871885
+      outfit_lightArmor_63: -5684109139452947912
+      outfit_lightArmor_64: 1061420698506938440
+      outfit_lightArmor_65: -1672896592696885971
+      outfit_lightArmor_66: 8009130762003040313
+      outfit_lightArmor_7: 6466609658619623264
+      outfit_lightArmor_8: 6276444718942733483
+      outfit_lightArmor_9: 3363719779306173841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: b8bc52aa7e46f40729fc67e580bf6687
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7835534478085654115
+    second: head_hair_dark01_0
+  - first:
+      213: 7249773424535816930
+    second: head_hair_dark01_1
+  - first:
+      213: 4266691903826769470
+    second: head_hair_dark01_2
+  - first:
+      213: -3577153283665250967
+    second: head_hair_dark01_3
+  - first:
+      213: 6006210136651520055
+    second: head_hair_dark01_4
+  - first:
+      213: -1995267917363421046
+    second: head_hair_dark01_5
+  - first:
+      213: 6212445508445180486
+    second: head_hair_dark01_6
+  - first:
+      213: -2131813849531211876
+    second: head_hair_dark01_7
+  - first:
+      213: -5540775404223210941
+    second: head_hair_dark01_8
+  - first:
+      213: 4402827020823758264
+    second: head_hair_dark01_9
+  - first:
+      213: 7688021033368936609
+    second: head_hair_dark01_10
+  - first:
+      213: 1525198880330619571
+    second: head_hair_dark01_11
+  - first:
+      213: -6437236426448933308
+    second: head_hair_dark01_12
+  - first:
+      213: 4459857742172121590
+    second: head_hair_dark01_13
+  - first:
+      213: -1102448652886687555
+    second: head_hair_dark01_14
+  - first:
+      213: -2975877127662026732
+    second: head_hair_dark01_15
+  - first:
+      213: -5617952844798090947
+    second: head_hair_dark01_16
+  - first:
+      213: -6478956735131106776
+    second: head_hair_dark01_17
+  - first:
+      213: -3894166654801995277
+    second: head_hair_dark01_18
+  - first:
+      213: 8538076714209987048
+    second: head_hair_dark01_19
+  - first:
+      213: -4830968111025029506
+    second: head_hair_dark01_20
+  - first:
+      213: -1611878298136194142
+    second: head_hair_dark01_21
+  - first:
+      213: 4288860140302110434
+    second: head_hair_dark01_22
+  - first:
+      213: 8672356625218379771
+    second: head_hair_dark01_23
+  - first:
+      213: -8158386340637588690
+    second: head_hair_dark01_24
+  - first:
+      213: 785511492515814503
+    second: head_hair_dark01_25
+  - first:
+      213: 8773616599295531422
+    second: head_hair_dark01_26
+  - first:
+      213: 7160113807296317374
+    second: head_hair_dark01_27
+  - first:
+      213: 6108356252230420334
+    second: head_hair_dark01_28
+  - first:
+      213: -640588866318844969
+    second: head_hair_dark01_29
+  - first:
+      213: 9167667399254500611
+    second: head_hair_dark01_30
+  - first:
+      213: -2256779392758046828
+    second: head_hair_dark01_31
+  - first:
+      213: 772052109332135432
+    second: head_hair_dark01_32
+  - first:
+      213: -3414562993316480242
+    second: head_hair_dark01_33
+  - first:
+      213: -1248091659322794287
+    second: head_hair_dark01_34
+  - first:
+      213: -2561920421934362541
+    second: head_hair_dark01_35
+  - first:
+      213: -4585672267939816634
+    second: head_hair_dark01_36
+  - first:
+      213: -7414726360358313986
+    second: head_hair_dark01_37
+  - first:
+      213: -2827501724868891198
+    second: head_hair_dark01_38
+  - first:
+      213: 4084378762070068065
+    second: head_hair_dark01_39
+  - first:
+      213: 6825980909241557450
+    second: head_hair_dark01_40
+  - first:
+      213: -6547436680610676044
+    second: head_hair_dark01_41
+  - first:
+      213: 4535843933186660063
+    second: head_hair_dark01_42
+  - first:
+      213: 5848381953211313680
+    second: head_hair_dark01_43
+  - first:
+      213: -3076928903031163313
+    second: head_hair_dark01_44
+  - first:
+      213: -3273106661301285134
+    second: head_hair_dark01_45
+  - first:
+      213: -1085456915560354395
+    second: head_hair_dark01_46
+  - first:
+      213: -7325327949306324934
+    second: head_hair_dark01_47
+  - first:
+      213: 6388649970337078598
+    second: head_hair_dark01_48
+  - first:
+      213: -7181801495405125243
+    second: head_hair_dark01_49
+  - first:
+      213: 613551797495520339
+    second: head_hair_dark01_50
+  - first:
+      213: 2853055036676932043
+    second: head_hair_dark01_51
+  - first:
+      213: 5697784142105047951
+    second: head_hair_dark01_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head_hair_dark01_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3660f97e7196dbc60800000000000000
+      internalID: 7835534478085654115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4687c48e5c9460800000000000000
+      internalID: 7249773424535816930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3631ad3ea5563b30800000000000000
+      internalID: 4266691903826769470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b2048a066b5ec0800000000000000
+      internalID: -3577153283665250967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d6790c485a5350800000000000000
+      internalID: 6006210136651520055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80e1d986626f44e0800000000000000
+      internalID: -1995267917363421046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 613
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6429855664a073650800000000000000
+      internalID: 6212445508445180486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 610
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f1f6349964a62e0800000000000000
+      internalID: -2131813849531211876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 605
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34add0b40263b13b0800000000000000
+      internalID: -5540775404223210941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 599
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b501b729dbf91d30800000000000000
+      internalID: 4402827020823758264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 548
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0efaf956651ba60800000000000000
+      internalID: 7688021033368936609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba1ee10d489a2510800000000000000
+      internalID: 1525198880330619571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 546
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e6e4a73975aa6a0800000000000000
+      internalID: -6437236426448933308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9e1f6bcf894ed30800000000000000
+      internalID: 4459857742172121590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 544
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0c49d8ac053b0f0800000000000000
+      internalID: -1102448652886687555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 550
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410ce7ee48f83b6d0800000000000000
+      internalID: -2975877127662026732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d312ae027a50902b0800000000000000
+      internalID: -5617952844798090947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822c2672d2f1616a0800000000000000
+      internalID: -6478956735131106776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 538
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91b544f0425f9c0800000000000000
+      internalID: -3894166654801995277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 537
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9458fe8875d7670800000000000000
+      internalID: 8538076714209987048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 485
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7efc1d3914f4fcb0800000000000000
+      internalID: -4830968111025029506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35e6a5a3571a9e0800000000000000
+      internalID: -1611878298136194142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee0a020397158b30800000000000000
+      internalID: 4288860140302110434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff95ab07666a5870800000000000000
+      internalID: 8672356625218379771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23c5e129d697ce80800000000000000
+      internalID: -8158386340637588690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c54666a82b6ea00800000000000000
+      internalID: 785511492515814503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e991b7cffc522c970800000000000000
+      internalID: 8773616599295531422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb744436295dd5360800000000000000
+      internalID: 7160113807296317374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e670bbfd5ad35c450800000000000000
+      internalID: 6108356252230420334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbbeffe1db2c17f0800000000000000
+      internalID: -640588866318844969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056e7f5de81a3f70800000000000000
+      internalID: 9167667399254500611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1c36691f4ea0e0800000000000000
+      internalID: -2256779392758046828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e35dc8d41e6ba00800000000000000
+      internalID: 772052109332135432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3d287c090d90d0800000000000000
+      internalID: -3414562993316480242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dedfee9f33edaee0800000000000000
+      internalID: -1248091659322794287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35098cb23fa327cd0800000000000000
+      internalID: -2561920421934362541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b56154e5b6c50c0800000000000000
+      internalID: -4585672267939816634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff1e1009a9991990800000000000000
+      internalID: -7414726360358313986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda2677922b2c8d0800000000000000
+      internalID: -2827501724868891198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b065918d0aea830800000000000000
+      internalID: 4084378762070068065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 359
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e0faa871cabe50800000000000000
+      internalID: 6825980909241557450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b286de5705d225a0800000000000000
+      internalID: -6547436680610676044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6933a760e82fe30800000000000000
+      internalID: 4535843933186660063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e27ff7660a92150800000000000000
+      internalID: 5848381953211313680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46f1b7077d8c45d0800000000000000
+      internalID: -3076928903031163313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe0c2d45d69392d0800000000000000
+      internalID: -3273106661301285134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada801bfaeafe0f0800000000000000
+      internalID: -1085456915560354395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a381b569a05375a90800000000000000
+      internalID: -7325327949306324934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d504cac4b09a850800000000000000
+      internalID: 6388649970337078598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581220b379d155c90800000000000000
+      internalID: -7181801495405125243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cd50deb16c38800800000000000000
+      internalID: 613551797495520339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc184c19076189720800000000000000
+      internalID: 2853055036676932043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_hair_dark01_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8376053d78921f40800000000000000
+      internalID: 5697784142105047951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      head_hair_dark01_0: 7835534478085654115
+      head_hair_dark01_1: 7249773424535816930
+      head_hair_dark01_10: 7688021033368936609
+      head_hair_dark01_11: 1525198880330619571
+      head_hair_dark01_12: -6437236426448933308
+      head_hair_dark01_13: 4459857742172121590
+      head_hair_dark01_14: -1102448652886687555
+      head_hair_dark01_15: -2975877127662026732
+      head_hair_dark01_16: -5617952844798090947
+      head_hair_dark01_17: -6478956735131106776
+      head_hair_dark01_18: -3894166654801995277
+      head_hair_dark01_19: 8538076714209987048
+      head_hair_dark01_2: 4266691903826769470
+      head_hair_dark01_20: -4830968111025029506
+      head_hair_dark01_21: -1611878298136194142
+      head_hair_dark01_22: 4288860140302110434
+      head_hair_dark01_23: 8672356625218379771
+      head_hair_dark01_24: -8158386340637588690
+      head_hair_dark01_25: 785511492515814503
+      head_hair_dark01_26: 8773616599295531422
+      head_hair_dark01_27: 7160113807296317374
+      head_hair_dark01_28: 6108356252230420334
+      head_hair_dark01_29: -640588866318844969
+      head_hair_dark01_3: -3577153283665250967
+      head_hair_dark01_30: 9167667399254500611
+      head_hair_dark01_31: -2256779392758046828
+      head_hair_dark01_32: 772052109332135432
+      head_hair_dark01_33: -3414562993316480242
+      head_hair_dark01_34: -1248091659322794287
+      head_hair_dark01_35: -2561920421934362541
+      head_hair_dark01_36: -4585672267939816634
+      head_hair_dark01_37: -7414726360358313986
+      head_hair_dark01_38: -2827501724868891198
+      head_hair_dark01_39: 4084378762070068065
+      head_hair_dark01_4: 6006210136651520055
+      head_hair_dark01_40: 6825980909241557450
+      head_hair_dark01_41: -6547436680610676044
+      head_hair_dark01_42: 4535843933186660063
+      head_hair_dark01_43: 5848381953211313680
+      head_hair_dark01_44: -3076928903031163313
+      head_hair_dark01_45: -3273106661301285134
+      head_hair_dark01_46: -1085456915560354395
+      head_hair_dark01_47: -7325327949306324934
+      head_hair_dark01_48: 6388649970337078598
+      head_hair_dark01_49: -7181801495405125243
+      head_hair_dark01_5: -1995267917363421046
+      head_hair_dark01_50: 613551797495520339
+      head_hair_dark01_51: 2853055036676932043
+      head_hair_dark01_52: 5697784142105047951
+      head_hair_dark01_6: 6212445508445180486
+      head_hair_dark01_7: -2131813849531211876
+      head_hair_dark01_8: -5540775404223210941
+      head_hair_dark01_9: 4402827020823758264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

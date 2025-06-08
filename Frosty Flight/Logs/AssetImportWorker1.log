@@ -1,0 +1,645 @@
+Unity Editor version:    6000.0.33f1 (433b0a79340b)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.5 (Build 23F79)
+Darwin version:          23.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.0.33f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+63731
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: /Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight
+/Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8374275072]  Target information:
+
+Player connection [8374275072]  * "[IP] 192.168.2.95 [Port] 0 [Flags] 2 [Guid] 356476721 [EditorId] 356476721 [Version] 1048832 [Id] OSXEditor(0,Keanes-Air) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8374275072] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8374275072] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 4.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.33f1 (433b0a79340b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.0.33f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M3 (high power)
+Metal devices available: 1
+0: Apple M3 (high power)
+Using device Apple M3 (high power)
+Initializing Metal device caps: Apple M3
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.0.33f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.0.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.0.33f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56106
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.33f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.33f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.33f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.010695 seconds.
+- Loaded All Assemblies, in  0.341 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 227 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.486 seconds
+Domain Reload Profiling: 827ms
+	BeginReloadAssembly (125ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (129ms)
+		LoadAssemblies (128ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (113ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (486ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (456ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (299ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (31ms)
+			ProcessInitializeOnLoadAttributes (73ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.555 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.637 seconds
+Domain Reload Profiling: 1193ms
+	BeginReloadAssembly (78ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (424ms)
+		LoadAssemblies (259ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (197ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (134ms)
+			BuildScriptInfoCaches (37ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (637ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (526ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (364ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Launching external process: /Applications/Unity/Hub/Editor/6000.0.33f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 220 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6558 unused Assets / (5.1 MB). Loaded Objects now: 7270.
+Memory consumption went from 172.4 MB to 167.4 MB.
+Total: 7.449708 ms (FindLiveObjects: 1.146916 ms CreateObjectMapping: 0.164375 ms MarkObjects: 4.505250 ms  DeleteObjects: 1.632625 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 322714.802391 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/fire-ball/_0000_Layer-1.png
+  artifactKey: Guid(f63150f8ce38d4f40a10a21482e9033d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/fire-ball/_0000_Layer-1.png using Guid(f63150f8ce38d4f40a10a21482e9033d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15f8ebb5506ef632ea9d193a11fa8ee5') in 0.254604083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/hurt/_0000_Layer-1.png
+  artifactKey: Guid(80c7ffc610b1344719c1782639b4ff2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/hurt/_0000_Layer-1.png using Guid(80c7ffc610b1344719c1782639b4ff2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ea75a88eefdcc1a2432c021092cdb187') in 0.014753542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-boss-dragon/PNG/sprites/tail/_0000_Layer-1.png
+  artifactKey: Guid(a8f62ae3c157b44fc9f648c50def97c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-boss-dragon/PNG/sprites/tail/_0000_Layer-1.png using Guid(a8f62ae3c157b44fc9f648c50def97c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '990d0f6505d48900050a4883dcab20c1') in 0.007237792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/walk/_0000_Layer-1.png
+  artifactKey: Guid(3c171dfdc15a14cb681c5aa46b2b2877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/walk/_0000_Layer-1.png using Guid(3c171dfdc15a14cb681c5aa46b2b2877) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f8fa7177eb84837748c24c37c166d21') in 0.007140791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/slash-upward/_0000_Layer-1.png
+  artifactKey: Guid(641c4d254d5354b52b7e31c67c584c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/slash-upward/_0000_Layer-1.png using Guid(641c4d254d5354b52b7e31c67c584c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '051166c470f46bdfa69182997216fa49') in 0.006466333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/jump/_0000_Layer-1.png
+  artifactKey: Guid(3f7cd4340ac41412fb13b63f42675522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/jump/_0000_Layer-1.png using Guid(3f7cd4340ac41412fb13b63f42675522) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a83f43118c281e83299dc6b4f250e56') in 0.005654375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/electro-shock/_0000_Layer-1.png
+  artifactKey: Guid(07ab59a55a2134db98543c674a1512fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/electro-shock/_0000_Layer-1.png using Guid(07ab59a55a2134db98543c674a1512fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19af5ee8ab2f3e02c907c48ef234f75e') in 0.006315667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-froggy/PNG/layers/walking/_0000_Layer-1.png
+  artifactKey: Guid(df6e728e2e22741d08bb23db8189b93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-froggy/PNG/layers/walking/_0000_Layer-1.png using Guid(df6e728e2e22741d08bb23db8189b93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b4de8b16cbaea5177476c73ef118e69') in 0.008563792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/slash-horizontal/_0000_Layer-1.png
+  artifactKey: Guid(96de3c8f917cd447d8c00f1addca2d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/slash-horizontal/_0000_Layer-1.png using Guid(96de3c8f917cd447d8c00f1addca2d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b5ad9f45c8de3c0c6da2abe011972cde') in 0.005213083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-dragon/PNG/sprites/_0000_Layer-1.png
+  artifactKey: Guid(7780a405642d64630af19ef993a2ccd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-dragon/PNG/sprites/_0000_Layer-1.png using Guid(7780a405642d64630af19ef993a2ccd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29e215a90ba7f73fc18456aa63edc3b0') in 0.0080775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0004_Layer-5.png
+  artifactKey: Guid(7f521d92df314482a86b86acbbd01089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0004_Layer-5.png using Guid(7f521d92df314482a86b86acbbd01089) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23d233e5ec13d078e53f5a90cddf8733') in 0.006526083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0006_Layer-7.png
+  artifactKey: Guid(6acd1fc2996cb411a835c6268cc6ffe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0006_Layer-7.png using Guid(6acd1fc2996cb411a835c6268cc6ffe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fb4de2b28947cdfad716d1c0faf86c9') in 0.004391959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0002_Layer-3.png
+  artifactKey: Guid(ec8ce0bce87fc4879b1f4dc889fa3510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0002_Layer-3.png using Guid(ec8ce0bce87fc4879b1f4dc889fa3510) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2071a0db4d91da372695dfb7fbf67f3a') in 0.009774917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/tongue/_0000_Layer-1.png
+  artifactKey: Guid(9b6c0fc8d0c3c4614afecd06c8e1a082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/tongue/_0000_Layer-1.png using Guid(9b6c0fc8d0c3c4614afecd06c8e1a082) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27478338f2dbaee1ab1ebdc6e0917edd') in 0.004281458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-boss-dragon/PNG/sprites/breath/_0000_Layer-1.png
+  artifactKey: Guid(f500adbc52412487a966d98435f3d05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-boss-dragon/PNG/sprites/breath/_0000_Layer-1.png using Guid(f500adbc52412487a966d98435f3d05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '061a306901dcea17b3f90364511942a0') in 0.004359167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/walk/_0000_Layer-1.png
+  artifactKey: Guid(8bfc9f89eee2c4fbdbd81d44e4b4e3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/walk/_0000_Layer-1.png using Guid(8bfc9f89eee2c4fbdbd81d44e4b4e3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81e722dbeb1e9299c69a36ec0d3efe2c') in 0.006269667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/enemy-death/_0000_Layer-1.png
+  artifactKey: Guid(6e6bdb03c65f944bdbde7325637797ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-FX/PNG/sprites/enemy-death/_0000_Layer-1.png using Guid(6e6bdb03c65f944bdbde7325637797ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1547a7aa2edbb32c7274c61b5f352e40') in 0.006191916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/spit/_0001_Layer-1.png
+  artifactKey: Guid(0a03620c7fc8c44ef8a1b49f0a96983d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/spit/_0001_Layer-1.png using Guid(0a03620c7fc8c44ef8a1b49f0a96983d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a93a305cf34b93857caad5a4f4747d9b') in 0.004795 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/jump/_0000_1.png
+  artifactKey: Guid(04b183b969d484e418d4cae7274ca335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/jump/_0000_1.png using Guid(04b183b969d484e418d4cae7274ca335) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e55da28bb8fdacf8c686db3cf5c4bf2') in 0.004699833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/run/_0000_Layer-1.png
+  artifactKey: Guid(9f510dedd02e04bebb43440b69111323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/run/_0000_Layer-1.png using Guid(9f510dedd02e04bebb43440b69111323) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d9de29a023826879bec3f3ea1c7f38d') in 0.004254125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0008_Layer-9.png
+  artifactKey: Guid(57af587070e824eb89ea248e26898c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0008_Layer-9.png using Guid(57af587070e824eb89ea248e26898c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca175b8cb04789a19b503a909d648ca6') in 0.004440125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/spring/_0000_Layer-1.png
+  artifactKey: Guid(d5ed101c35bd2442eb04620b46cb7634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/spring/_0000_Layer-1.png using Guid(d5ed101c35bd2442eb04620b46cb7634) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80a940878a2f2ba789a2b1c2b93505b2') in 0.005366167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/breath-no-gas/_0000_Layer-1.png
+  artifactKey: Guid(8f96085e5ec474289bafacf85c08fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/breath-no-gas/_0000_Layer-1.png using Guid(8f96085e5ec474289bafacf85c08fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f02e4a7999e18ed4cf9ddc80ba8e8add') in 0.004525792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0007_Layer-8.png
+  artifactKey: Guid(ffa8d4ee6edf84c0499d97957b6c82d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/walking/0__0007_Layer-8.png using Guid(ffa8d4ee6edf84c0499d97957b6c82d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5c2e8c3f28d1adbec90f554e63e571f') in 0.003750542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/gas-alone/_0000_Layer-1.png
+  artifactKey: Guid(d65af665ee75d43d0b02dc026d7b20e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/gas-alone/_0000_Layer-1.png using Guid(d65af665ee75d43d0b02dc026d7b20e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf9d3f3533c86f6991387bcb2411bb29') in 0.003438125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/spit/_0000_Layer-2.png
+  artifactKey: Guid(2ef5179ead1894235b5a7993b613b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-snake/PNG/sprites/spit/_0000_Layer-2.png using Guid(2ef5179ead1894235b5a7993b613b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '621c6c04f104b8f55ecc8d9bb29f1b54') in 0.003078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/idle/_0000_Layer-1.png
+  artifactKey: Guid(a23be257cd6a142fa97fd24998179aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/Grotto-escape-2-lizzard/PNG/sprites/idle/_0000_Layer-1.png using Guid(a23be257cd6a142fa97fd24998179aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '32d3683fce3f661491405bf6c33b5ad6') in 0.003726834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-froggy/PNG/layers/taunting/_0000_Layer-1.png
+  artifactKey: Guid(7eb15102824484bafb0452ad3f7bac29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-froggy/PNG/layers/taunting/_0000_Layer-1.png using Guid(7eb15102824484bafb0452ad3f7bac29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7593d843a07fbb2ce82ced0a399ecd6f') in 0.005742541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/breatth-attack/_0000_Layer-1.png
+  artifactKey: Guid(234bb37f248d246cfa2fff76d08f1569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Sprites/sunny-mushroom/PNG/sprites/breatth-attack/_0000_Layer-1.png using Guid(234bb37f248d246cfa2fff76d08f1569) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b5232ff0eea2d9a0d8ba91601b2b595f') in 0.004211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Downloaded Assets/Free 2D Cartoon Parallax Background/FullBG/3_Graveyard.png
+  artifactKey: Guid(367fef7c7a0cf8b4e8fc2020259965e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/Free 2D Cartoon Parallax Background/FullBG/3_Graveyard.png using Guid(367fef7c7a0cf8b4e8fc2020259965e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e75b428bd02cbaf0d5f98bfc1f21902') in 0.004995708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.679045 seconds.
+  path: Assets/Downloaded Assets/UI/Textures/ability_sword_double.png
+  artifactKey: Guid(451cccb0eaa2acf43b799e06bb8af4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/UI/Textures/ability_sword_double.png using Guid(451cccb0eaa2acf43b799e06bb8af4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c91169c9c818641128a5f6dee20fd95') in 0.025088 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Environments/ships-graveyard/PNG/mockup/background.png
+  artifactKey: Guid(4b6f7418ed7cc43c7a3a1cd3000eb880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Environments/ships-graveyard/PNG/mockup/background.png using Guid(4b6f7418ed7cc43c7a3a1cd3000eb880) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '437d1ea7f4e201dd7b0433507daf4fdc') in 0.00920675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Downloaded Assets/UI/Textures/background.png
+  artifactKey: Guid(7d6eda0888186dc47bc17fd22bb82bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/UI/Textures/background.png using Guid(7d6eda0888186dc47bc17fd22bb82bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be1771b5e70eab16cb7abd494fcbcd94') in 0.0082585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/maleBase/full/advnt_full.png
+  artifactKey: Guid(55ea8588f0dd643a59f25553d19f6932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/maleBase/full/advnt_full.png using Guid(55ea8588f0dd643a59f25553d19f6932) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d6d006ce8a83104bbf334e43d5682c6') in 0.0709955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 55
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042058 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Environments/Rocky Beach environment/layers/background.png
+  artifactKey: Guid(4606fdb54eebd4f19ab6b84e6d8f6d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Environments/Rocky Beach environment/layers/background.png using Guid(4606fdb54eebd4f19ab6b84e6d8f6d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12b8d50e19264dc51a5c8713915dadbd') in 0.005140167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Environments/colorful-tileset/PNG/layers/background-sky.png
+  artifactKey: Guid(823b3fd14091b4800821aac55f471e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/2D Project Assets/Sideview Fantasy Patreon Collection/Environments/colorful-tileset/PNG/layers/background-sky.png using Guid(823b3fd14091b4800821aac55f471e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af2d0d6d35a27ca438284da94ebf065a') in 0.00531225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 910.319604 seconds.
+  path: Assets/Downloaded Assets/Free 2D Cartoon Parallax Background/4_Snow/Layer_1.png
+  artifactKey: Guid(630227a2121b4a243888619c45836138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloaded Assets/Free 2D Cartoon Parallax Background/4_Snow/Layer_1.png using Guid(630227a2121b4a243888619c45836138) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f281260dd266cf9fef0cb7d4d42250f') in 0.090987292 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6545 unused Assets / (4.7 MB). Loaded Objects now: 7425.
+Memory consumption went from 140.1 MB to 135.4 MB.
+Total: 142.547541 ms (FindLiveObjects: 2.613667 ms CreateObjectMapping: 0.311792 ms MarkObjects: 138.095833 ms  DeleteObjects: 1.525708 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x32d4e7000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.155 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.727 seconds
+Domain Reload Profiling: 1886ms
+	BeginReloadAssembly (573ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (88ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (206ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (526ms)
+		LoadAssemblies (517ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (204ms)
+			TypeCache.Refresh (39ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (145ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (727ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (387ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (271ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6556 unused Assets / (3.8 MB). Loaded Objects now: 7427.
+Memory consumption went from 154.7 MB to 150.9 MB.
+Total: 7.876042 ms (FindLiveObjects: 0.489666 ms CreateObjectMapping: 0.207542 ms MarkObjects: 5.612708 ms  DeleteObjects: 1.565458 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6545 unused Assets / (3.2 MB). Loaded Objects now: 7427.
+Memory consumption went from 140.0 MB to 136.8 MB.
+Total: 38.761250 ms (FindLiveObjects: 0.834375 ms CreateObjectMapping: 0.157500 ms MarkObjects: 34.841625 ms  DeleteObjects: 2.927334 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x30287b000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.619 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.546 seconds
+Domain Reload Profiling: 1168ms
+	BeginReloadAssembly (170ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (98ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (402ms)
+		LoadAssemblies (262ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (22ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (135ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (547ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (414ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (290ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6556 unused Assets / (3.7 MB). Loaded Objects now: 7429.
+Memory consumption went from 152.0 MB to 148.3 MB.
+Total: 6.579042 ms (FindLiveObjects: 0.472333 ms CreateObjectMapping: 0.310208 ms MarkObjects: 4.488667 ms  DeleteObjects: 1.307542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (2.3 MB). Loaded Objects now: 7429.
+Memory consumption went from 134.9 MB to 132.6 MB.
+Total: 75.851250 ms (FindLiveObjects: 0.624584 ms CreateObjectMapping: 0.070042 ms MarkObjects: 74.315750 ms  DeleteObjects: 0.840208 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (2.3 MB). Loaded Objects now: 7429.
+Memory consumption went from 134.9 MB to 132.6 MB.
+Total: 4.330417 ms (FindLiveObjects: 0.173167 ms CreateObjectMapping: 0.065333 ms MarkObjects: 3.823500 ms  DeleteObjects: 0.268042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (2.3 MB). Loaded Objects now: 7429.
+Memory consumption went from 134.9 MB to 132.6 MB.
+Total: 4.293708 ms (FindLiveObjects: 0.169458 ms CreateObjectMapping: 0.076167 ms MarkObjects: 3.790208 ms  DeleteObjects: 0.257333 ms)
+
+Prepare: number of updated asset objects reloaded= 0

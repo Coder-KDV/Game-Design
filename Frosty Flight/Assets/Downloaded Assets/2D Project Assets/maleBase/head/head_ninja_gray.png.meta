@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 6cc75c6eb3b6740ac8b94a0b55331dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8431898852607760050
+    second: head_ninja_gray_0
+  - first:
+      213: 8737824202899422079
+    second: head_ninja_gray_1
+  - first:
+      213: -8229458035058035364
+    second: head_ninja_gray_2
+  - first:
+      213: -7495831514893604645
+    second: head_ninja_gray_3
+  - first:
+      213: 932300803578349862
+    second: head_ninja_gray_4
+  - first:
+      213: -5240930812351194958
+    second: head_ninja_gray_5
+  - first:
+      213: -4817629275920828089
+    second: head_ninja_gray_6
+  - first:
+      213: -4840268903468686675
+    second: head_ninja_gray_7
+  - first:
+      213: -171406069291708354
+    second: head_ninja_gray_8
+  - first:
+      213: 7048942438766601739
+    second: head_ninja_gray_9
+  - first:
+      213: 5365951852401708869
+    second: head_ninja_gray_10
+  - first:
+      213: -2511078301398084162
+    second: head_ninja_gray_11
+  - first:
+      213: 2942872865810028857
+    second: head_ninja_gray_12
+  - first:
+      213: -2378015847305765301
+    second: head_ninja_gray_13
+  - first:
+      213: -3201431570352818432
+    second: head_ninja_gray_14
+  - first:
+      213: 1341642142207785043
+    second: head_ninja_gray_15
+  - first:
+      213: 8350459119859045919
+    second: head_ninja_gray_16
+  - first:
+      213: 8570353580669516016
+    second: head_ninja_gray_17
+  - first:
+      213: 2912891081088966081
+    second: head_ninja_gray_18
+  - first:
+      213: 2519818573527795028
+    second: head_ninja_gray_19
+  - first:
+      213: 2943578223035580970
+    second: head_ninja_gray_20
+  - first:
+      213: 2035308389395198514
+    second: head_ninja_gray_21
+  - first:
+      213: -252294263393981621
+    second: head_ninja_gray_22
+  - first:
+      213: -8879983504535800741
+    second: head_ninja_gray_23
+  - first:
+      213: -3614216023623746420
+    second: head_ninja_gray_24
+  - first:
+      213: -7692582549811696023
+    second: head_ninja_gray_25
+  - first:
+      213: -5056023506610728724
+    second: head_ninja_gray_26
+  - first:
+      213: -8835950295194955035
+    second: head_ninja_gray_27
+  - first:
+      213: 1095715069550135441
+    second: head_ninja_gray_28
+  - first:
+      213: -7335663580550988077
+    second: head_ninja_gray_29
+  - first:
+      213: -3518232090527019502
+    second: head_ninja_gray_30
+  - first:
+      213: -1135188054782517918
+    second: head_ninja_gray_31
+  - first:
+      213: 402644389805147193
+    second: head_ninja_gray_32
+  - first:
+      213: -834307338224528540
+    second: head_ninja_gray_33
+  - first:
+      213: 1798992467062507931
+    second: head_ninja_gray_34
+  - first:
+      213: 5337453332469430041
+    second: head_ninja_gray_35
+  - first:
+      213: -7332726336106990947
+    second: head_ninja_gray_36
+  - first:
+      213: 6323199163296709350
+    second: head_ninja_gray_37
+  - first:
+      213: -798674739662916636
+    second: head_ninja_gray_38
+  - first:
+      213: -5386311112385611005
+    second: head_ninja_gray_39
+  - first:
+      213: -1207621173842911607
+    second: head_ninja_gray_40
+  - first:
+      213: 9151131380636523547
+    second: head_ninja_gray_41
+  - first:
+      213: 8699780317599742821
+    second: head_ninja_gray_42
+  - first:
+      213: -8517059296728028080
+    second: head_ninja_gray_43
+  - first:
+      213: -6518188086395944954
+    second: head_ninja_gray_44
+  - first:
+      213: 2799165595668024929
+    second: head_ninja_gray_45
+  - first:
+      213: -5037128279930124059
+    second: head_ninja_gray_46
+  - first:
+      213: 1126185527806933078
+    second: head_ninja_gray_47
+  - first:
+      213: -2220618245853998951
+    second: head_ninja_gray_48
+  - first:
+      213: -7507432364485520573
+    second: head_ninja_gray_49
+  - first:
+      213: -7767904937956008373
+    second: head_ninja_gray_50
+  - first:
+      213: -1719179085435748080
+    second: head_ninja_gray_51
+  - first:
+      213: 2422480782477408980
+    second: head_ninja_gray_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head_ninja_gray_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 610
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e496a4ceaa0ebfa80800000000000000
+      internalID: -8431898852607760050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 612
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b71ab41dcf24970800000000000000
+      internalID: 8737824202899422079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 612
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b166c4871bcd80800000000000000
+      internalID: -8229458035058035364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 613
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a69aa3f479f790800000000000000
+      internalID: -7495831514893604645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 613
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629491d24a230fc00800000000000000
+      internalID: 932300803578349862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 613
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8586d91397447b0800000000000000
+      internalID: -5240930812351194958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749773dc2b7542db0800000000000000
+      internalID: -4817629275920828089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 609
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2216fb319e3dcb0800000000000000
+      internalID: -4840268903468686675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 605
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30958f861b0f9df0800000000000000
+      internalID: -171406069291708354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 599
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06ebd81dcfd2d160800000000000000
+      internalID: 7048942438766601739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 544
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fc04c97c0b77a40800000000000000
+      internalID: 5365951852401708869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 546
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d9f1d69bd62dd0800000000000000
+      internalID: -2511078301398084162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 545
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9391eb9874f27d820800000000000000
+      internalID: 2942872865810028857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 546
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1717af279ffed0800000000000000
+      internalID: -2378015847305765301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 543
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007366cd2fa3293d0800000000000000
+      internalID: -3201431570352818432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 549
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3583df58b687e9210800000000000000
+      internalID: 1341642142207785043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 547
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f169e9ea35ac2e370800000000000000
+      internalID: 8350459119859045919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 547
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8bd478c2300f670800000000000000
+      internalID: 8570353580669516016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 537
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd16bd410bac6820800000000000000
+      internalID: 2912891081088966081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 536
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4554e8d54a138f220800000000000000
+      internalID: 2519818573527795028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 484
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a228c905cc0b9d820800000000000000
+      internalID: 2943578223035580970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 483
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232f546523ede3c10800000000000000
+      internalID: 2035308389395198514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 481
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b688344bbaf7cf0800000000000000
+      internalID: -252294263393981621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 478
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54b0d00d06f3c480800000000000000
+      internalID: -8879983504535800741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 483
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb16aeca9b7ddc0800000000000000
+      internalID: -3614216023623746420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 478
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eea119de47e3590800000000000000
+      internalID: -7692582549811696023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 481
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce05170a86565d9b0800000000000000
+      internalID: -5056023506610728724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 482
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e295e97506606580800000000000000
+      internalID: -8835950295194955035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 478
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1980497ec03c43f00800000000000000
+      internalID: 1095715069550135441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 482
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3defc79e6dc723a90800000000000000
+      internalID: -7335663580550988077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ec1c6dd8abc2fc0800000000000000
+      internalID: -3518232090527019502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ddb698a700f30f0800000000000000
+      internalID: -1135188054782517918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934c32170fa769500800000000000000
+      internalID: 402644389805147193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46310af65e1fb64f0800000000000000
+      internalID: -834307338224528540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b994dd80e1e47f810800000000000000
+      internalID: 1798992467062507931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b01fd681721a40800000000000000
+      internalID: 5337453332469430041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 409
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92f03d6f3cec3a90800000000000000
+      internalID: -7332726336106990947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaf854232480c750800000000000000
+      internalID: 6323199163296709350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3705b4e898ae4f0800000000000000
+      internalID: -798674739662916636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 409
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b3488c49aff35b0800000000000000
+      internalID: -5386311112385611005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e5addc0faad3fe0800000000000000
+      internalID: -1207621173842911607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c15c381895ffe70800000000000000
+      internalID: 9151131380636523547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bb77efa14dbb870800000000000000
+      internalID: 8699780317599742821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 356
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c6697e1b35dc980800000000000000
+      internalID: -8517059296728028080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600cf23687eba85a0800000000000000
+      internalID: -6518188086395944954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 356
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e89455742a8d620800000000000000
+      internalID: 2799165595668024929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 356
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c0ba6486881ab0800000000000000
+      internalID: -5037128279930124059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6583e1055c301af00800000000000000
+      internalID: 1126185527806933078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 356
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9901f128877ce21e0800000000000000
+      internalID: -2220618245853998951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 356
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d1936a0e30d790800000000000000
+      internalID: -7507432364485520573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e11247d9bd23490800000000000000
+      internalID: -7767904937956008373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 271
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011425bfabf3428e0800000000000000
+      internalID: -1719179085435748080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_ninja_gray_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dab6c2df616e9120800000000000000
+      internalID: 2422480782477408980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      head_ninja_gray_0: -8431898852607760050
+      head_ninja_gray_1: 8737824202899422079
+      head_ninja_gray_10: 5365951852401708869
+      head_ninja_gray_11: -2511078301398084162
+      head_ninja_gray_12: 2942872865810028857
+      head_ninja_gray_13: -2378015847305765301
+      head_ninja_gray_14: -3201431570352818432
+      head_ninja_gray_15: 1341642142207785043
+      head_ninja_gray_16: 8350459119859045919
+      head_ninja_gray_17: 8570353580669516016
+      head_ninja_gray_18: 2912891081088966081
+      head_ninja_gray_19: 2519818573527795028
+      head_ninja_gray_2: -8229458035058035364
+      head_ninja_gray_20: 2943578223035580970
+      head_ninja_gray_21: 2035308389395198514
+      head_ninja_gray_22: -252294263393981621
+      head_ninja_gray_23: -8879983504535800741
+      head_ninja_gray_24: -3614216023623746420
+      head_ninja_gray_25: -7692582549811696023
+      head_ninja_gray_26: -5056023506610728724
+      head_ninja_gray_27: -8835950295194955035
+      head_ninja_gray_28: 1095715069550135441
+      head_ninja_gray_29: -7335663580550988077
+      head_ninja_gray_3: -7495831514893604645
+      head_ninja_gray_30: -3518232090527019502
+      head_ninja_gray_31: -1135188054782517918
+      head_ninja_gray_32: 402644389805147193
+      head_ninja_gray_33: -834307338224528540
+      head_ninja_gray_34: 1798992467062507931
+      head_ninja_gray_35: 5337453332469430041
+      head_ninja_gray_36: -7332726336106990947
+      head_ninja_gray_37: 6323199163296709350
+      head_ninja_gray_38: -798674739662916636
+      head_ninja_gray_39: -5386311112385611005
+      head_ninja_gray_4: 932300803578349862
+      head_ninja_gray_40: -1207621173842911607
+      head_ninja_gray_41: 9151131380636523547
+      head_ninja_gray_42: 8699780317599742821
+      head_ninja_gray_43: -8517059296728028080
+      head_ninja_gray_44: -6518188086395944954
+      head_ninja_gray_45: 2799165595668024929
+      head_ninja_gray_46: -5037128279930124059
+      head_ninja_gray_47: 1126185527806933078
+      head_ninja_gray_48: -2220618245853998951
+      head_ninja_gray_49: -7507432364485520573
+      head_ninja_gray_5: -5240930812351194958
+      head_ninja_gray_50: -7767904937956008373
+      head_ninja_gray_51: -1719179085435748080
+      head_ninja_gray_52: 2422480782477408980
+      head_ninja_gray_6: -4817629275920828089
+      head_ninja_gray_7: -4840268903468686675
+      head_ninja_gray_8: -171406069291708354
+      head_ninja_gray_9: 7048942438766601739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

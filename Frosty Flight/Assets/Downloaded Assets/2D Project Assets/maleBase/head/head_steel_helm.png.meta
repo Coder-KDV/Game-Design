@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: cdd3735736613467b9ef17290467f012
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7429555983588975074
+    second: head_steel_helm_0
+  - first:
+      213: -5092797201271669976
+    second: head_steel_helm_1
+  - first:
+      213: -4707802053405762551
+    second: head_steel_helm_2
+  - first:
+      213: -3193459999836245902
+    second: head_steel_helm_3
+  - first:
+      213: -1428261964126513668
+    second: head_steel_helm_4
+  - first:
+      213: -8215916864747705821
+    second: head_steel_helm_5
+  - first:
+      213: -7030913399868000773
+    second: head_steel_helm_6
+  - first:
+      213: -3896033247740491784
+    second: head_steel_helm_7
+  - first:
+      213: -2148832614206823898
+    second: head_steel_helm_8
+  - first:
+      213: -6349102167206479911
+    second: head_steel_helm_9
+  - first:
+      213: 4384149918156989403
+    second: head_steel_helm_10
+  - first:
+      213: 4212534400134798038
+    second: head_steel_helm_11
+  - first:
+      213: 3470188001143967847
+    second: head_steel_helm_12
+  - first:
+      213: -6918430917222458204
+    second: head_steel_helm_13
+  - first:
+      213: -4243503086930418956
+    second: head_steel_helm_14
+  - first:
+      213: 4883371737311061290
+    second: head_steel_helm_15
+  - first:
+      213: -8168032492805392992
+    second: head_steel_helm_16
+  - first:
+      213: 5294149798607372656
+    second: head_steel_helm_17
+  - first:
+      213: -7679850683427553002
+    second: head_steel_helm_18
+  - first:
+      213: 7479018208201831988
+    second: head_steel_helm_19
+  - first:
+      213: -965238762671511991
+    second: head_steel_helm_20
+  - first:
+      213: -1564502106323002958
+    second: head_steel_helm_21
+  - first:
+      213: -2189412799492512075
+    second: head_steel_helm_22
+  - first:
+      213: -7308669118553845847
+    second: head_steel_helm_23
+  - first:
+      213: 5459377672348481040
+    second: head_steel_helm_24
+  - first:
+      213: -3302714434230477504
+    second: head_steel_helm_25
+  - first:
+      213: 325364718319661632
+    second: head_steel_helm_26
+  - first:
+      213: -2351205002086701402
+    second: head_steel_helm_27
+  - first:
+      213: -6697875889550743180
+    second: head_steel_helm_28
+  - first:
+      213: -3604661194846504470
+    second: head_steel_helm_29
+  - first:
+      213: 3434567680363011736
+    second: head_steel_helm_30
+  - first:
+      213: -779758861043866761
+    second: head_steel_helm_31
+  - first:
+      213: -9211647076492551590
+    second: head_steel_helm_32
+  - first:
+      213: 8159134666452126284
+    second: head_steel_helm_33
+  - first:
+      213: -3069895097669711502
+    second: head_steel_helm_34
+  - first:
+      213: 1098932649670698971
+    second: head_steel_helm_35
+  - first:
+      213: 8655219920903912825
+    second: head_steel_helm_36
+  - first:
+      213: 6285338703437093391
+    second: head_steel_helm_37
+  - first:
+      213: -464347527357292131
+    second: head_steel_helm_38
+  - first:
+      213: -1117328678347905434
+    second: head_steel_helm_39
+  - first:
+      213: 8620202165283553616
+    second: head_steel_helm_40
+  - first:
+      213: -5776502143527387374
+    second: head_steel_helm_41
+  - first:
+      213: -1203778007767461630
+    second: head_steel_helm_42
+  - first:
+      213: -5478652091992221965
+    second: head_steel_helm_43
+  - first:
+      213: -8812916808535934527
+    second: head_steel_helm_44
+  - first:
+      213: 3328844416849282517
+    second: head_steel_helm_45
+  - first:
+      213: -7892517851996659857
+    second: head_steel_helm_46
+  - first:
+      213: -8573806590711857013
+    second: head_steel_helm_47
+  - first:
+      213: 1474926943272097468
+    second: head_steel_helm_48
+  - first:
+      213: 5058048528847731630
+    second: head_steel_helm_49
+  - first:
+      213: 3123486945443887935
+    second: head_steel_helm_50
+  - first:
+      213: 294788341789185161
+    second: head_steel_helm_51
+  - first:
+      213: -8639194769474655825
+    second: head_steel_helm_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head_steel_helm_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 614
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e1d47423ae4e890800000000000000
+      internalID: -7429555983588975074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 614
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b3911adefb259b0800000000000000
+      internalID: -5092797201271669976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 614
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c15e5b9f68aaeb0800000000000000
+      internalID: -4707802053405762551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 614
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2707751cc0d8ea3d0800000000000000
+      internalID: -3193459999836245902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 614
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf599069f4bcd2ce0800000000000000
+      internalID: -1428261964126513668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 614
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a629c24233bfd80800000000000000
+      internalID: -8215916864747705821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 614
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57552a38d2d6e90800000000000000
+      internalID: -7030913399868000773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 611
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7015b37628ee9c0800000000000000
+      internalID: -3896033247740491784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 606
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622ad645f10dd22e0800000000000000
+      internalID: -2148832614206823898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 600
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7bef8c73573e7a0800000000000000
+      internalID: -6349102167206479911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 549
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd32ec15f11a7dc30800000000000000
+      internalID: 4384149918156989403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 548
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad52cc7bde57a30800000000000000
+      internalID: 4212534400134798038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 547
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7605208e995982030800000000000000
+      internalID: 3470188001143967847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 548
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac10e77cbbccff90800000000000000
+      internalID: -6918430917222458204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 545
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f22d3cec6c0c15c0800000000000000
+      internalID: -4243503086930418956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 551
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ab9cc8b835c340800000000000000
+      internalID: 4883371737311061290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a57c7059b155ae80800000000000000
+      internalID: -8168032492805392992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071c2b53139987940800000000000000
+      internalID: 5294149798607372656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61182463e70bb6590800000000000000
+      internalID: -7679850683427553002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 538
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4367c805f6fcac760800000000000000
+      internalID: 7479018208201831988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 485
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946e68b9578ca92f0800000000000000
+      internalID: -965238762671511991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 484
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b954469f95c94ae0800000000000000
+      internalID: -1564502106323002958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 482
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b62e8ba8a4ad91e0800000000000000
+      internalID: -2189412799492512075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af0bbfd824629a90800000000000000
+      internalID: -7308669118553845847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 484
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b707611b93cb40800000000000000
+      internalID: 5459377672348481040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d132978b66a22d0800000000000000
+      internalID: -3302714434230477504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 484
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04273e9cc7de38400800000000000000
+      internalID: 325364718319661632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 484
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a620800287de5fd0800000000000000
+      internalID: -2351205002086701402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479aca58d5d5c03a0800000000000000
+      internalID: -6697875889550743180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 484
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9f989ddbba9fdc0800000000000000
+      internalID: -3604661194846504470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e1311bb190aaf20800000000000000
+      internalID: 3434567680363011736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773640d727dbd25f0800000000000000
+      internalID: -779758861043866761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a55611ac7a92080800000000000000
+      internalID: -9211647076492551590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 409
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a447c00c11b3170800000000000000
+      internalID: 8159134666452126284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2790fa57caa8565d0800000000000000
+      internalID: -3069895097669711502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 409
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd763b72c61304f00800000000000000
+      internalID: 1098932649670698971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dbc5629a48d1870800000000000000
+      internalID: 8655219920903912825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ad167ef320a3750800000000000000
+      internalID: 6285338703437093391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 409
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91a983526e4e89f0800000000000000
+      internalID: -464347527357292131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66667b5ac737e70f0800000000000000
+      internalID: -1117328678347905434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05187c1923c11a770800000000000000
+      internalID: 8620202165283553616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f74cad7edb5dfa0800000000000000
+      internalID: -5776502143527387374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d792a7425b4fe0800000000000000
+      internalID: -1203778007767461630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 357
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f65ad013fae7f3b0800000000000000
+      internalID: -5478652091992221965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c975200bda32b580800000000000000
+      internalID: -8812916808535934527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 357
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d508d23c5e623e20800000000000000
+      internalID: 3328844416849282517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f5f4874d4287290800000000000000
+      internalID: -7892517851996659857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8087bbe458b30980800000000000000
+      internalID: -8573806590711857013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 357
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d26b8d3ef77410800000000000000
+      internalID: 1474926943272097468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf7aa965cc13640800000000000000
+      internalID: 5058048528847731630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bb0c3f3dad85b20800000000000000
+      internalID: 3123486945443887935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 271
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984554c5f6c471400800000000000000
+      internalID: 294788341789185161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_steel_helm_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 256
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9ec0c212a6b1880800000000000000
+      internalID: -8639194769474655825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      head_steel_helm_0: -7429555983588975074
+      head_steel_helm_1: -5092797201271669976
+      head_steel_helm_10: 4384149918156989403
+      head_steel_helm_11: 4212534400134798038
+      head_steel_helm_12: 3470188001143967847
+      head_steel_helm_13: -6918430917222458204
+      head_steel_helm_14: -4243503086930418956
+      head_steel_helm_15: 4883371737311061290
+      head_steel_helm_16: -8168032492805392992
+      head_steel_helm_17: 5294149798607372656
+      head_steel_helm_18: -7679850683427553002
+      head_steel_helm_19: 7479018208201831988
+      head_steel_helm_2: -4707802053405762551
+      head_steel_helm_20: -965238762671511991
+      head_steel_helm_21: -1564502106323002958
+      head_steel_helm_22: -2189412799492512075
+      head_steel_helm_23: -7308669118553845847
+      head_steel_helm_24: 5459377672348481040
+      head_steel_helm_25: -3302714434230477504
+      head_steel_helm_26: 325364718319661632
+      head_steel_helm_27: -2351205002086701402
+      head_steel_helm_28: -6697875889550743180
+      head_steel_helm_29: -3604661194846504470
+      head_steel_helm_3: -3193459999836245902
+      head_steel_helm_30: 3434567680363011736
+      head_steel_helm_31: -779758861043866761
+      head_steel_helm_32: -9211647076492551590
+      head_steel_helm_33: 8159134666452126284
+      head_steel_helm_34: -3069895097669711502
+      head_steel_helm_35: 1098932649670698971
+      head_steel_helm_36: 8655219920903912825
+      head_steel_helm_37: 6285338703437093391
+      head_steel_helm_38: -464347527357292131
+      head_steel_helm_39: -1117328678347905434
+      head_steel_helm_4: -1428261964126513668
+      head_steel_helm_40: 8620202165283553616
+      head_steel_helm_41: -5776502143527387374
+      head_steel_helm_42: -1203778007767461630
+      head_steel_helm_43: -5478652091992221965
+      head_steel_helm_44: -8812916808535934527
+      head_steel_helm_45: 3328844416849282517
+      head_steel_helm_46: -7892517851996659857
+      head_steel_helm_47: -8573806590711857013
+      head_steel_helm_48: 1474926943272097468
+      head_steel_helm_49: 5058048528847731630
+      head_steel_helm_5: -8215916864747705821
+      head_steel_helm_50: 3123486945443887935
+      head_steel_helm_51: 294788341789185161
+      head_steel_helm_52: -8639194769474655825
+      head_steel_helm_6: -7030913399868000773
+      head_steel_helm_7: -3896033247740491784
+      head_steel_helm_8: -2148832614206823898
+      head_steel_helm_9: -6349102167206479911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

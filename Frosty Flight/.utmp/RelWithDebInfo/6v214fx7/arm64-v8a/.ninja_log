@@ -1,0 +1,23 @@
+# ninja log v5
+970	1050	1749274946057919045	/Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6v214fx7/obj/arm64-v8a/libgame.so	9dda604a4c09080b
+0	970	1749274945982983127	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f28bb5b8de684964
+1	820	1749274945831801409	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d45bfeb55097a612
+0	710	1749274945723163762	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ab199121007e68b0
+1	646	1749274945658531401	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2e173e3c8e716729
+1	591	1749274945603447052	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4b237fd5c3ace0c
+1	901	1749274945914470453	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	16f5eac9f8cc7b84
+2	771	1749274945783390348	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1b5e03b585d66958
+144	241	1749274945250978712	/Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6v214fx7/obj/arm64-v8a/libswappywrapper.so	bd3eefeb6d39c814
+2	701	1749274945714436213	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	34d259e77691336a
+3	143	1749274945157714109	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b5259e932a59f7ae
+3	6040	1749277066941452012	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b5259e932a59f7ae
+1	6487	1749277067387961336	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ab199121007e68b0
+3	6530	1749277067432476334	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	34d259e77691336a
+2	6542	1749277067443654272	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4b237fd5c3ace0c
+2	6543	1749277067443692814	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2e173e3c8e716729
+3	6638	1749277067541199066	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1b5e03b585d66958
+2	6648	1749277067551957459	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d45bfeb55097a612
+2	6710	1749277067613964513	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	16f5eac9f8cc7b84
+1	6788	1749277067690524107	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f28bb5b8de684964
+6041	9700	1749277070604123688	/Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6v214fx7/obj/arm64-v8a/libswappywrapper.so	bd3eefeb6d39c814
+6788	9706	1749277070605905698	/Users/keanevaz/Documents/Unity Projects/FrostyFlight/Frosty Flight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6v214fx7/obj/arm64-v8a/libgame.so	9dda604a4c09080b
